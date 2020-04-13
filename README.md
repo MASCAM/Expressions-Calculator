@@ -1,6 +1,6 @@
 # Expressions-Calculator
 
-This project was accomplished as a part of the Data Structures discipline in the University of Brasilia in september 2018. It consists on a calculator where you can input simple mathematical expressions like "(5+2)/3" and the output is this expression's result.
+This project was accomplished as a part of the Data Structures discipline at the University of Brasilia in september 2018. It consists on a calculator where you can input simple mathematical expressions like "(5+2)/3" and the output is this expression's result.
 
 Instructions to compile and run the program (on linux): 
 
