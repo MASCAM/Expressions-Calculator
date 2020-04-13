@@ -22,6 +22,6 @@ stdio.h
 
 stdlib.h
 
-pilha.h (incluida no arquivo)
+pilha.h (included in the files)
 
 string.h
